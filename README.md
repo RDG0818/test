@@ -1,5 +1,5 @@
 # test
-This is a repo for testing github 
+This is a repository for testing github 
 
 _This is a new edit_
 
